@@ -6,7 +6,7 @@
     'description': """
             Change The Odoo ListView/FormView On the fly without any technical knowledge
     """,
-    'author': "Apps for Odoo",
+    'author': "David Laid",
     'images': ['images/1.jpg'],
     'depends': ['web'],
     'data': ['templates.xml',
